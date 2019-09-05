@@ -3,4 +3,5 @@
 - used the window function to Display to the player 
 - used linked list data structure to track the snake body positioning
 
+## Demo
 ![Snake Game Demo](Demo/snake_game_demo.gif)
